@@ -12,3 +12,5 @@ npx ng g c header
 npx ng g c footer
 ## Para atualizar as dependências
 npx npm install
+## Gerar uma build
+npx ng build
